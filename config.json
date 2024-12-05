@@ -1,17 +1,9 @@
 {
-    "title": "Bar Nuri Repositories Viewer",
+    "title": "Actions OpenSource Repositories Viewer",
     "fetchConfigs": [
-        {
-            "orgOrUser": "csharp-opensource",
-            "isUser": false
-        },
         {
             "orgOrUser": "actions-opensource",
             "isUser": false
-        },
-        {
-            "orgOrUser": "barnuri",
-            "isUser": true
         }
     ]
 }
